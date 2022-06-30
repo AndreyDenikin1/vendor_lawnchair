@@ -16,4 +16,3 @@
 This can be done by adding package name of such launcher in overrides for Lawnchair package definition in Android.bp
 
 **4. Build Android**
-# vendor_lawnchair
